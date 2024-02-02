@@ -14,6 +14,10 @@ In this course, you will explore the capabilities of the Vertex AI Text-Embeddin
 </p>
 
 2. 🔄 **Semantic Similarity Measurement**: Learn how embeddings can be used to measure the semantic similarity between two pieces of text.
+<p align="center">
+<img src="images/2_2.png" height="250">  
+</p>
+
 3. 🛠 **Application of Text Embeddings**: Apply text embeddings for tasks such as classification, clustering, and outlier detection.
 4. 🎛 **Adjusting LLM Parameters**: Modify the text generation behavior of an LLM by adjusting parameters like temperature, top-k, and top-p.
 5. 🚀 **Efficient Semantic Search**: Use the open-source ScaNN (Scalable Nearest Neighbors) library for efficient semantic search.
