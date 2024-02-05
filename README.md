@@ -25,13 +25,19 @@ In this course, you will explore the capabilities of the Vertex AI Text-Embeddin
 
 4. 🎛 **Adjusting LLM Parameters**: Modify the text generation behavior of an LLM by adjusting parameters like temperature, top-k, and top-p.
 <p align="center">
-<img src="images/5_2.png" height="250">  
-<img src="images/5_3.png" height="250">  
-<img src="images/5_5.png" height="250">  
+<img src="images/5_2.png" height="300">  
+<img src="images/5_3.png" height="300">  
+<img src="images/5_5.png" height="300">  
 </p>
 
 5. 🚀 **Efficient Semantic Search**: Use the open-source ScaNN (Scalable Nearest Neighbors) library for efficient semantic search.
 6. ❓ **Building a Q&A System**: Combine semantic search with an LLM to build a question-answering system using Google Cloud's Vertex AI.
+<p align="center">
+<img src="images/6_1.png" height="250">  
+<img src="images/6_2.png" height="250">  
+  
+<img src="images/6_3.png" height="250">  
+</p>
 
 ## Key Points
 - 🔑 Use text embeddings to capture the meaning of sentences and paragraphs.
