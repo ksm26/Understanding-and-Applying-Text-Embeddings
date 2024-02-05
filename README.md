@@ -35,7 +35,9 @@ In this course, you will explore the capabilities of the Vertex AI Text-Embeddin
 <p align="center">
 <img src="images/6_1.png" height="250">  
 <img src="images/6_2.png" height="250">  
-  
+</p>
+
+<p align="center">
 <img src="images/6_3.png" height="250">  
 </p>
 
